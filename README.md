@@ -3,9 +3,9 @@
 ## Instructions
 1. Clone this Repository
 2. The script depends on `requests`, `beautifulsoup`, `tqdm` and `re`. See `requirements.txt` to create a new conda environment or you can install these packages directly using `pip install requests beautifulsoup4 tqdm` in your desired environment
-3. Set the `url` to the podcast and `out_dir` within the script (lines 16 and 17)
+3. Set the `url` to the podcast and `out_dir` within the script ([lines 16-17](https://github.com/VaasuDevanS/google-podcast-downloader/blob/c09068092d8807a61fe860ad290517303ceead3e/google-podcast-downloader.py#L16-L17))
 4. Run the script using `python google-podcast-downloader.py`
-5. [Optional] You can change the file name template in line 44. The default template is `Ep 000 - <Podcast-Name> (<Date-Published>)`
+5. [Optional] You can change the file name template in [line 44](https://github.com/VaasuDevanS/google-podcast-downloader/blob/c09068092d8807a61fe860ad290517303ceead3e/google-podcast-downloader.py#L44). The default template is `Ep 000 - <Podcast-Name> (<Date-Published>)`
 
 
 ## Tested Podcasts
