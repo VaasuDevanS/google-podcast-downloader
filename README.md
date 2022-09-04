@@ -14,6 +14,7 @@ I personally used the script to download the below podcasts for offline listenin
 
 <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vTExMNTQ0OTY4NTMxNA"><img src="https://user-images.githubusercontent.com/24793046/186712377-ee4ef1c3-29b6-4536-8141-5b347c39af03.png" width=250 height=250></a>
 <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9yZWFscGVyc29uYWxmaW5hbmNlLmxpYnN5bi5jb20vcnNz"><img src="https://user-images.githubusercontent.com/24793046/186715257-fd960d3a-7180-4cd9-bd7d-0ca04d1f68f5.png" width=250 height=250></a>
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly90YWxrcHl0aG9uLmZtL2VwaXNvZGVzL3Jzcw"><img src="https://user-images.githubusercontent.com/24793046/188334448-f50171b9-8501-426e-83f7-553feb376369.png" width=250 height=250></a>
 
 
 ## Contributions
