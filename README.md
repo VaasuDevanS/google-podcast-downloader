@@ -12,8 +12,7 @@
 
 I personally used the script to download the below podcasts for offline listening.
 
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9weXRob25ieXRlcy5mbS9lcGlzb2Rlcy9yc3M="><img src="https://github.com/VaasuDevanS/google-podcast-downloader/assets/24793046/0daedd1c-073e-4a03-b1ee-767d72626c86" width=250 height=250></a> 
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly90YWxrcHl0aG9uLmZtL2VwaXNvZGVzL3Jzcw"><img src="https://user-images.githubusercontent.com/24793046/188334448-f50171b9-8501-426e-83f7-553feb376369.png" width=250 height=250></a> <br>
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly90YWxrcHl0aG9uLmZtL2VwaXNvZGVzL3Jzcw"><img src="https://user-images.githubusercontent.com/24793046/188334448-f50171b9-8501-426e-83f7-553feb376369.png" width=250 height=250></a>
 <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9yZWFscHl0aG9uLmNvbS9wb2RjYXN0cy9ycHAvZmVlZA=="><img src="https://user-images.githubusercontent.com/24793046/188514673-8eaa6c57-338a-46fe-8ae8-160718bb4900.png" width=250 height=250></a>
 <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9tYXBzY2FwaW5nLnBvZGJlYW4uY29tL2ZlZWQueG1s"><img src="https://user-images.githubusercontent.com/24793046/188515031-1c71a2a1-331d-4dec-aafb-34f53f1aa47d.png" width=250 height=250></a>
 
