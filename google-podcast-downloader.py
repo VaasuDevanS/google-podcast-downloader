@@ -5,7 +5,7 @@ Created on: Aug 25, 2022
 Description: Script to download entire Podcast Library for the given url
 Email: vaasuceg.96@gmail.com
 Github: https://github.com/VaasuDevanS/google-podcast-downloader
-Pull Request by: Hirschy Kirkwood
+Pull Request by: HirschBerge
 Date Submitted: 08/29/23
 """
 
@@ -23,6 +23,7 @@ if len(sys.argv) == 3:
     print("Out Dir:", out_dir)
 elif len(sys.argv) == 2:
     out_dir = r""  # fill in the directory to put your files into.
+    url = sys.argv[1]
 else:
     url = r""  # Fill in your URL here if you don't want to pass cli args.
     out_dir = r""  # fill in the directory to put your files into.
@@ -70,7 +71,10 @@ if __name__ == "__main__":
         if os.path.exists(episode_path):
             pass  # This file already exists...
         # Fetch each episode and write the file
-        podcast = requests.get(url)
+        try:
+            podcast = requests.get(url)
+        except:
+            pass  # Skips this episode.
 
         # Get the URL
         url = div.find("div", attrs={"jsname": "fvi9Ef"}).get("jsdata")
