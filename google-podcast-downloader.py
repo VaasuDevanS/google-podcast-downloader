@@ -33,7 +33,7 @@ def main(url: str, out_dir: Path) -> None:
         episode_path = out_dir / file_name
         # If the episode is already downloaded, skip it.
         if os.path.exists(episode_path):
-            pass
+            continue
         # Get the URL
         url = div.find("div", attrs={"jsname": "fvi9Ef"}).get("jsdata")
         url = url.split(";")[1]
