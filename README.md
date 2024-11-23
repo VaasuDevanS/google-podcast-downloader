@@ -1,5 +1,8 @@
 # Google Podcast Downloader
 
+> [!IMPORTANT]  
+> 🪦 Google Podcasts is no longer available and it's resting in [Google's Graveyard](https://killedbygoogle.com)
+
 ## Instructions
 1. Clone this Repository
 2. Use `requirements.txt` or install using `pip install beautifulsoup4 requests tqdm` in your environment
